@@ -3,6 +3,8 @@
 This project demonstrates a modern AWS-based data pipeline for processing and analyzing **life insurance policy data**. It leverages an **Oracle Database** as the source system and integrates **AWS Lambda**, **AWS Glue**, **S3**, and **Athena** to build an automated, serverless, and scalable architecture for analytics.
 
 ---
+# 🚀 Architecture
+![Architecture Diagram](aws_data_fow.png)
 
 ## 🚀 Architecture Overview
 
